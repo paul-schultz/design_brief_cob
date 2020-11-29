@@ -1,0 +1,67 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+    width: 66vw;
+    margin: auto;
+    background-color: #f4f4f4;
+}
+
+span {
+    font-weight: 800;
+}
+
+.main {
+    margin-top: 10vh;
+}
+
+.ui-kit {
+    background-color: white;    
+}
+
+.ui-container {
+    margin-left: 2em;
+}
+
+.lora {
+    font-family: 'Lora', serif;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.business-cards {
+    width: 66vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card-item img {
+    height:300px;
+    width: 176px;
+}
+
+.color-grid {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    padding: 20px 0;
+    margin: auto;
+}
+

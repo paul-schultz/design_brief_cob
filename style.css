@@ -35,7 +35,7 @@ span {
     font-family: 'Roboto', sans-serif;
 }
 
-.logos {
+.logos, .icon, .buttons {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -65,3 +65,37 @@ span {
     margin: auto;
 }
 
+.icon {
+    padding-top: 30px;
+}
+
+.icon img {
+    height: 50px;
+}
+
+.button p {
+    text-decoration: none;
+    color: #222;
+    padding: 12px 24px;
+    background-color: rgba(235, 235, 235, .6);;
+    border: 1px solid #222;
+    border-radius: 5px;
+    transition:  all 1s ease-in;
+    
+}
+
+.button p:hover {
+    background-color: rgba(0, 176, 236, .6);
+    color: #fff;
+    border: 1px solid rgba(0, 70, 128, 0.6);
+    cursor: pointer;
+}
+
+.hero {
+    width: 66vw;
+    margin: auto;
+}
+
+.hero img {
+    width: 100%;
+}

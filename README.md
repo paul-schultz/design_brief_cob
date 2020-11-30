@@ -4,16 +4,16 @@ The owner was basically starting from scratch and needed someone that could desi
 I created this brief to present my initial work that I did after spending some time learning about her and her business and the message she wants to convey to her clients with her brand.  
 The brief is essentially a walkthrough of all of the visual components that go into building an effective online presence as well as some rationale for my decisions.   
 One example of this was where I explained the benefits of using an SVG hero image for the sites landing page rather than a bunch of photos.   
-After getting all of the designs finished I complied everything into an web page format using HTML and CSS so that the client could interact with everything herself as some of the design components included buttons with hover effects, so she could get a true feel for how everything would look when it was finished.  
+After getting all of the designs finished I compiled my work into a web page format using HTML and CSS so that the client could interact with everything herself, as some of the design components included buttons with hover effects, so she could get a true feel for how everything would look when it was finished.  
 
 Here is a preview of the brief: 
 ![README img](./img/readme_img.png)  
 
 Through the completion of this project I gained experience doing the following: 
-- Designing logos, graphics, and business cards using Vector Illustration software
-- Working with a client and learning to set their needs and opinions above what mine may be as the designer
-- Collecting feedback and constructive criticism about my work and appropriate changes to increase satisfaction of the client.
-- Presenting a final draft of the design to a client in the form of a design brief.
+- Designing logos, graphics, UI components, and business cards using Vector Illustration software
+- Working with a client and meeting deadlines while producing a satisfactory product
+- Collecting feedback and constructive criticism about my work and making appropriate changes as needed
+- Presenting a final draft of the designs to a client in the form of a design brief
 - Building and publishing a WordPress website for a local business 
 
 The finished brief can be viewed at the following link:  

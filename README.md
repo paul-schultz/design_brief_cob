@@ -5,8 +5,10 @@ I created this brief to present my initial work that I did after spending some t
 The brief is essentially a walkthrough of all of the visual components that go into building an effective online presence as well as some rationale for my decisions.   
 One example of this was where I explained the benefits of using an SVG hero image for the sites landing page rather than a bunch of photos.   
 After getting all of the designs finished I complied everything into an web page format using HTML and CSS so that the client could interact with everything herself as some of the design components included buttons with hover effects, so she could get a true feel for how everything would look when it was finished.  
+
 Here is a preview of the brief: 
 ![README img](./img/readme_img.png)  
+
 Through the completion of this project I gained experience doing the following: 
 - Designing logos, graphics, and business cards using Vector Illustration software
 - Working with a client and learning to set their needs and opinions above what mine may be as the designer
